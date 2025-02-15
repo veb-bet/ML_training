@@ -37,6 +37,8 @@ pip install scikit-learn
 pip install tensorflow
 pip install keras
 pip install opencv-python
+pip install pandas
+pip install numpy
 
 ```
 Эти команды установят все необходимые библиотеки для работы.
